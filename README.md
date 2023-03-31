@@ -39,3 +39,13 @@ Status | Info
 Connecting🟠 | The extension is trying to login with the provided token
 Connected🟢 | You have logged in to your account successfully
 Connection failed🔴 | The provided token is invalid
+
+### Contact me: 
+
+[<img align="left" alt="YouTube" width="22px" src="https://duckduckgo.com/i/a834a359.png" />](https://www.instagram.com/ttaawi/)
+<a href="https://twitter.com/Ttawiii">
+  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+</br>
