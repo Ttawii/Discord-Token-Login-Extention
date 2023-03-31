@@ -19,7 +19,7 @@ Don't be a such of skid,loser to edit this project And pretend you did it by you
 * Extract the .zip file and open Google Chrome
 * In the URL bar type chrome://extensions
 * You should see a screen similar to this:
-![image](![image](https://user-images.githubusercontent.com/75933148/229149034-0b917610-a402-4dd7-8252-fb58bb6bccbb.png))
+![image](![image](https://media.discordapp.net/attachments/1086583310551101490/1091366178393428098/image.png?width=1248&height=683))
 * Click the switch that says Developer mode and a menu will appear from the top of the screen 
 ![image](https://user-images.githubusercontent.com/81697828/133133187-fbab820d-817c-4b5f-91b1-136aec6aafb6.png)
 * Press the first button and find where you have extracted the .zip file. Click on the folder and press Select folder
